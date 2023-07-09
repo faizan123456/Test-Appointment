@@ -1,0 +1,7 @@
+/appointment-server/.husky
+/appointment-server/package-lock.json
+/appointment-server/node_modules
+/client/node_modules
+/client/package-lock.json
+/client/build
+.eslintcache
